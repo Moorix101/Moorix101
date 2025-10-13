@@ -36,9 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Moorix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moorix101&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moorix101&layout=compact&theme=tokyonight)  
 
 ---
 
