@@ -22,7 +22,7 @@
 
 ### 🎮 Projects & Experiments
 - 🕹️ **Carta** – Mobile Cards game in Godot  
-- 🧠 **Quizzyy** – Quiz game built in Java/Android Studio *(coming soon)* 
+- 🧠 **Quizzyy** – Quiz game built in Java/Android Studio
 
 *(Check out my repositories for more experimental projects & games)*  
 
