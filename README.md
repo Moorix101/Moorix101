@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Moorix101
 
 🎓 **Abderrahmane Aboutalib** — CS Student @ EST  
-💻 Passionate about **app & game development**, AI integration, and interactive learning tools  
+💻 Passionate about **app & game development**, and interactive learning tools  
 🚀 Forever exploring new technologies and improving my coding skills  
 
 ---
